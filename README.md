@@ -1,7 +1,8 @@
 # file
 
 # Create Repo
-# git clone
-# git add
-# git commit 
-# git push
+# git clone <repo name>
+# git add .
+# git commit -m"Message"
+# git push origin <branch name>
+# git status
